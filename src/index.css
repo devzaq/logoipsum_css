@@ -11,11 +11,3 @@ body {
   background-color: #f7f7f7;
   color: #333;
 }
-
-.container {
-  /* align-content: center; */
-}
-
-.main {
-  flex-grow: 1;
-}
