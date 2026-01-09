@@ -5,7 +5,7 @@
   align-items: center;
   height: 50vh;
 
-  background-image: url("./assets/images/hero.jpg");
+  background-image: url("/assets/images/hero.jpg");
   background-color: rgba(0, 0, 0, 0.55);
   background-blend-mode: overlay;
   background-size: cover;
