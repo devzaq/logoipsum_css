@@ -11,7 +11,7 @@ function Programs() {
         <div className="programs__card">
           <img
             className="programs__card-img"
-            src="/assets/images/program1.jpg"
+            src="./assets/images/program1.jpg"
             alt="acadamic programs"
           />
           <h3>
@@ -26,7 +26,7 @@ function Programs() {
         <div className="programs__card">
           <img
             className="programs__card-img"
-            src="/assets/images/program2.jpg"
+            src="./assets/images/program2.jpg"
             alt="acadmic programs"
           />
           <h3>
@@ -41,7 +41,7 @@ function Programs() {
         <div className="programs__card">
           <img
             className="programs__card-img"
-            src="/assets/images/program3.jpg"
+            src="./assets/images/program3.jpg"
             alt="academic program"
           />
           <h3>Dedicated Staff Committed to Student Success and Growth</h3>

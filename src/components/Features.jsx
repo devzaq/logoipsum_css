@@ -32,7 +32,7 @@ function Features() {
         </div>
       </div>
       <div className="feature__image">
-        <img src="/assets/images/features.jpg" alt="feature image" />
+        <img src="./assets/images/features.jpg" alt="feature image" />
       </div>
     </section>
   );

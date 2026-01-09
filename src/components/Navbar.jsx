@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="nav">
       <div className="nav__logo">
-        <img src="/assets/images/logo.png" alt="app logo" />
+        <img src="./assets/images/logo.png" alt="app logo" />
       </div>
       <div className="nav__links">
         <a className="nav__link" href="#home">

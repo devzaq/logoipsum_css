@@ -4,7 +4,7 @@ function Element() {
   return (
     <div className="element">
       <div className="element__left">
-        <img src="/assets/images/formimage.jpg" alt="form image" />
+        <img src="./assets/images/formimage.jpg" alt="form image" />
       </div>
       <div className="element__right">
         <h2 className="element__title">Sign Up Today Now!</h2>
